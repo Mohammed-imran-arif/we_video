@@ -11,7 +11,7 @@ Welcome to my we_video project ! This project showcases my skills, projects, and
 <img width="450px;" src="https://github.com/Mohammed-imran-arif/assets/blob/main/weVideo_photo/Screenshot%20from%202024-06-09%2023-19-31.png"/>
 
 ## Technologies Used
-- React.js: A JavaScript library for building user interfaces, react hooks, react context.
+- React.js: A JavaScript library for building user interfaces, react hooks, react state, react useRef.
 - HTML5 & CSS3: Markup and styling languages for building web pages.
 - JavaScript: A programming language for adding interactivity to web applications.
 - Git: A version control system for tracking changes and collaborating on projects.
