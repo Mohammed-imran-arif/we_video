@@ -2,7 +2,7 @@
 Welcome to my we_video project ! This project showcases my skills, projects, and experiences as a web developer.
 
 ### Weblink: [Live Website](https://we-video.netlify.app/)
-<a href="https://we-video.netlify.app/" target="_blank">Live Website</a>
+
 
 <img width="450px;" src="https://github.com/Mohammed-imran-arif/assets/blob/main/weVideo_photo/Screenshot%20from%202024-06-09%2023-13-33.png"/>
 <img width="450px;" src="https://github.com/Mohammed-imran-arif/assets/blob/main/weVideo_photo/Screenshot%20from%202024-06-09%2023-17-17.png"/>
