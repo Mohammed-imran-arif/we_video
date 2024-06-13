@@ -1,5 +1,9 @@
 # My Project we_video
 Welcome to my we_video project ! This project showcases my skills, projects, and experiences as a web developer.
+- Developed a responsive YouTube clone using React JS, showcasing expertise in UI design, real-time data integration, and responsive web development.
+- Integrated the YouTube Data API to display real-time YouTube data, videos, and comments, demonstrating proficiency in handling API integration and dynamic data display.
+- Employed a tech stack consisting of React JS for front-end development, YouTube Data API for real-time data retrieval, and CSS media queries for responsive design, 
+  demonstrating proficiency in utilizing modern web development tools and technologies.
 
 ### Weblink: [Live Website](https://we-video.netlify.app/)
 
